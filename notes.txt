@@ -1,0 +1,17 @@
+install React extension
+
+npm install bootstrap
+
+#degradel background
+
+Resources
+
+    Gradient.io
+    Flat Color Palette - Drible.com/Ebtihaj
+    Oxygen Font
+
+# validate using prototypes
+warning
+
+#animation
+npm install animate.css --save
