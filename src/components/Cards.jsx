@@ -8,17 +8,17 @@ import Image3 from '../assets/images/image3.jpg';
 const cards = [
   {
     id:1,
-    title:'Fazt Web',
+    title:'Wolfsider Web',
     image:Image1
   },
   {
     id:2,
-    title:'Fazt Blog',
+    title:'Wolfsider Blog',
     image:Image2
   },
   {
     id:3,
-    title:'Fazt Youtube',
+    title:'Wolfsider Youtube',
     image:Image3
   }
 ]
